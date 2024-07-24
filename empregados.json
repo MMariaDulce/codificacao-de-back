@@ -1,0 +1,41 @@
+[
+  {
+    "nome": "Dulce",
+    "cargo": "chefe de administracao",
+    "CPF": "09078767654",
+    "data de nascimento": "17/10/2006",
+    "email": "dulce@empresa.com",
+    "telefone": "123456789",
+    "endereco": "rua so os bonitos",
+    "data de contratacao": "01/05/2021",
+    "salario": "100000",
+    "habilidade": "comunicacao",
+    "id": 1
+  },
+  {
+    "nome": "maria",
+    "cargo": "faxineira",
+    "CPF": "1234567890",
+    "data de nascimento": "01/01/2010",
+    "email": "maria@empresa.com",
+    "telefone": "0101010",
+    "endereco": "comendador",
+    "data de contratacao": "10/05/2021",
+    "salario": "1000",
+    "habilidade": "limpeza",
+    "id": 2
+  },
+  {
+    "nome": "paula",
+    "cargo": "faxineira",
+    "CPF": "1234567890",
+    "data de nascimento": "01/01/2010",
+    "email": "paula@empresa.com",
+    "telefone": "0101010",
+    "endereco": "fruteira",
+    "data de contratacao": "10/05/2021",
+    "salario": "1000",
+    "habilidade": "limpeza",
+    "id": 3
+  }
+]
